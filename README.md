@@ -1,7 +1,7 @@
 # Trent Nelson
 
-I am a software engineer by trade.  [My personal website](https://trent.me).
+[Personal website](https://trent.me).
 
-Currently, Principle Engineer at NVIDIA.
+Principal Software Engineer @ NVIDIA.
 
-[![PerfectHash](https://github-readme-stats.vercel.app/api?username=tpn)](https://github.com/tpn/perfecthash)
+[![Stats](https://github-readme-stats.vercel.app/api?username=tpn)](https://trent.me)
