@@ -1,6 +1,6 @@
 # Trent Nelson
 
-[Personal website](https://trent.me).
+[Personal website](https://trent.me)
 
 Principal Software Engineer @ NVIDIA.
 
