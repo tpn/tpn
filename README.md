@@ -4,4 +4,4 @@
 
 Principal Software Engineer @ NVIDIA.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=tpn)](https://trent.me)
+[![GitHub stats](./profile-summary-card-output/github/3-stats.svg)](https://trent.me)
